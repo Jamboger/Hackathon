@@ -1,14 +1,23 @@
-﻿
-Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2015
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{A492622E-50A4-6E4F-6704-8A3BC59D5640}") = "Signing", "Assembly-CSharp.csproj", "{C8A73E0D-42D4-4C22-43D2-3DEE02D22EE1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8A73E0D-42D4-4C22-43D2-3DEE02D22EE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8A73E0D-42D4-4C22-43D2-3DEE02D22EE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8A73E0D-42D4-4C22-43D2-3DEE02D22EE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8A73E0D-42D4-4C22-43D2-3DEE02D22EE1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
 	EndGlobalSection
 EndGlobal
